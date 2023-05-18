@@ -1,2 +1,2 @@
 # APIProdutos
-- Criação de uma apí de produtos
+- Criação de uma api de produtos
