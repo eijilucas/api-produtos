@@ -1,7 +1,7 @@
 # APIs
 
 # Sobre o projeto
-Criação de uma API em Java utilizando Spring(sem endpoint)
+Criação de uma API em Java utilizando Spring
 
 ![produtos](https://github.com/eijilucas/assets/blob/main/produtos.png)
 # Tecnologias utilizadas
